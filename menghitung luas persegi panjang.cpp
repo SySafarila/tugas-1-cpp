@@ -9,5 +9,5 @@ int main() {
 	cout << "Masukan nilai Lebar nya : ";
 	cin >> lebar;
 	cout << "Nilai persegi panjang dari " << panjang << " X " << lebar << " adalah : " << panjang*lebar << "cm";
-	return panjang*lebar;
+	return 0;
 }
