@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	int jariJari;
-	int pi = 3.14;
+	float pi = 3.14;
 	cout << "Menghitung luas sebuah lingkaran. \n";
 	cout << "Masukan nilai jari-jari lingkaran : ";
 	cin >> jariJari;
